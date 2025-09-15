@@ -14,7 +14,7 @@ It provides insights into sales performance, outlet analysis, and product catego
 ---
 
 ## 🖼 Dashboard Preview  
-![Blinkit Power BI Dashboard](images/blinkit_dashboard_preview.png)
+![Blinkit Power BI Dashboard](blinkit_dashboard_preview.jpg)
 
 ---
 
